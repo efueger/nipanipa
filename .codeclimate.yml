@@ -16,6 +16,7 @@ engines:
 
   stylelint:
     enabled: true
+    config: .stylelintrc
 
     exclude_paths:
       - coverage/**
